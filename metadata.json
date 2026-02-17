@@ -1,0 +1,5 @@
+{
+  "name": "Aloware Omni-Channel Client",
+  "description": "A Slack-native, Linear-styled interface for Aloware SMS, Calling, and Sequence management with high-density threaded inboxes.",
+  "requestFramePermissions": []
+}
